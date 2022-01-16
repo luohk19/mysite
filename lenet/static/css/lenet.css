@@ -1,0 +1,8 @@
+.platinfo {
+    display: inline;
+    height: 100%;
+    width: 100%;
+    background-color: pink;
+    text-align: center;
+    float: center;
+}
